@@ -9,7 +9,7 @@ namespace Tarea4_Joseph_Granados.Clases
 {
     public class RetiroCajero
     {
-        //ARREGLAR ESTO
+       
         public int[] NumBilletes(int[] cantidadesBilletes, int aRetirar)
         {
             int[] numBilletesRetirar = new int[cantidadesBilletes.Length]; //10,20,50,100,200
